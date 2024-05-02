@@ -1,11 +1,11 @@
 <img src="https://github.com/joaoftrodrigues/yen-usd-temporal-series-treatment/assets/61411774/28de09f5-7b34-471f-a221-5cf9736884e7" width="500">
 
-# Processing and EDA of time series: Exchange ration USD/JPY
+# Processing and EDA of time series: Exchange ratio USD/JPY
 An application of treatment to a temporal series of exchange rate between JPY (Japanese Yan) and USD (American Dollar), including values imputation and needed
 differentiations. The data was extracted from FRED, comprising 20 years, with dates between 1st March, 2003 and 1st March, 2023.
 
 ## Context
-For an academic project, its meant to use 3 time series, where 1 is target, and the others are exogenous, to help predict the target one. Each time series 
+For an academic project, it's meant to use 3 time series, where 1 is target, and the others are exogenous, to help predict the target one. Each time series 
 needed to be treated, to apply further predictions, which was done independently, as for this notebook, is present the treatment on the exogenous variable, 
 exchange rate USD/JPY.
 
